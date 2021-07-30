@@ -1,0 +1,65 @@
+.header{
+    background-color: rgba(38, 70, 83, 1);
+   width: 100%;
+  
+  
+}
+.login-button{
+    margin-left: 50px;
+    margin-right: 156px;
+    background-color: rgba(231, 111, 81, 1);
+    color: white;
+    border-radius: 8px;
+    padding: 10px 24px;
+    border:none;
+}
+
+.purchase-button {
+    
+    
+    background-color: rgba(231, 111, 81, 1);
+    color: white;
+    border-radius: 8px;
+    padding: 10px 46px;
+    border:none;
+
+}
+/* main section  */
+.fature-img img{
+    margin-left: 50px; 
+    margin-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    width: 288px;
+     height: 243px;
+}
+
+/* Latest section  */
+.latest-button{
+    background-color: rgba(231, 111, 81, 1);
+    padding: 15px;
+
+}
+/* Clients Review Section  */
+.user-img{
+    width: 149px;
+height: 149px;
+
+}
+.ratings{
+  font-size: 14px;
+  color: rgba(35, 166, 240, 1);
+
+
+}
+/* FAQ Section  */
+.faq-img{
+    width: 431.2px;
+height: 423.5px;
+}
+footer{
+    background-color: aquamarine;
+    height: 240px;
+    background-color: rgba(11, 13, 23, 1);
+}
